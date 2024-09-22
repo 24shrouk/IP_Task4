@@ -3,7 +3,7 @@
 This is my project. Below is a video of the project interface you can download :
 
 
-[Watch the video](VID-20240915-WA0000.mp4)
+[Watch the video](https://github.com/24shrouk/IP_Task4/blob/main/assets/VID-20240923-WA0002.mp4)
 
 
 
